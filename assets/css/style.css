@@ -787,16 +787,16 @@ section {
   box-sizing: border-box;
 }
 
-body, html {
+/* body, html {
   background: #000;
   margin: 0;
   height: 100vh;
   color: #fff;
   /* font-family: "Comfortaa", cursive; */
-}
+} */
 
 .clock {
-  --clock-size: 360px;
+  --clock-size: 300px;
   width: var(--clock-size);
   height: var(--clock-size);
   position: absolute;
